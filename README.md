@@ -1,2 +1,2 @@
-# Estudos_l-gica_com_python
+# Estudos_logica_com_python
 Repositório para o curso de Github
